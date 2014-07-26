@@ -24,28 +24,13 @@ Screenshots
 
 ###Index Page###
 
-<img align="left" src="index_wide_screen.png" alt="index wide screen" />
-<img align="right" src="index_narrow_screen.png" alt="index narrow screen" />
-
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-
+![index screen shots]({filename}/images/index_screen.png)
 
 ###Image Page###
 
-<img align="left" src="image_wide_screen.png" alt="index wide screen"/>
-<img align="right" src="image_narrow_screen.png" alt="index narrow screen" />
+![image screen shots]({filename}/images/image_screen.png)
 
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
+
 
 Demo Album
 ---------
