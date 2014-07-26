@@ -24,11 +24,11 @@ Screenshots
 
 ###Index Page###
 
-![index screen shots]({filename}/images/index_screen.png)
+![index screen shots](index_screen.png)
 
 ###Image Page###
 
-![image screen shots]({filename}/images/image_screen.png)
+![image screen shots](image_screen.png)
 
 
 
