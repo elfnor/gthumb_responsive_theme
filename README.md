@@ -22,12 +22,14 @@ Other settings I also used:
 Screenshots
 ---------
 
+###Index Page###
 
 <img align="left" src="index_wide_screen.png" alt="index wide screen" />
 
 
 <img align="right" src="index_narrow_screen.png" alt="index narrow screen" />
 
+###Image Page###
 
 <img align="left" src="image_wide_screen.png" alt="index wide screen"/>
 
