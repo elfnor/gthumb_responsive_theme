@@ -16,7 +16,7 @@ Other settings I also used:
 
 `Image Page` tab:
 
-*  `Show the description, if avaliable` set
+*  `Show the description, if available` set
 *  `Show the following attributes:` set to `Title`
 
 Screenshots
