@@ -23,22 +23,18 @@ Screenshots
 ---------
 
 
-  <img src="index_wide_screen.png" alt="index wide screen" style="float:left; margin: 10px 10px"/>
+<img src="index_wide_screen.png" alt="index wide screen" />
 
 
-  <img src="index_narrow_screen.png" alt="index narrow screen" style="float:right; margin: 10px 10px"/>
+<img align="right" src="index_narrow_screen.png" alt="index narrow screen" />
 
 
-  <img src="image_wide_screen.png" alt="index wide screen" style="float:left; margin: 10px 10px"/>
+<img src="image_wide_screen.png" alt="index wide screen"/>
 
 
-  <img src="image_narrow_screen.png" alt="index narrow screen" style="float:right; margin: 10px 10px"/>
+<img align="right" src="image_narrow_screen.png" alt="index narrow screen" />
 
 
-![index wide screen ](index_wide_screen.png)
-![image wide screen ](image_wide_screen.png)
-![index narrow screen ](index_narrow_screen.png)
-![image narrow screen ](image_narrow_screen.png)
 
 Demo Album
 ---------
