@@ -22,6 +22,19 @@ Other settings I also used:
 Screenshots
 ---------
 
+
+  <img src="index_wide_screen.png" alt="index wide screen" style="float:left; margin: 10px 10px"/>
+
+
+  <img src="index_narrow_screen.png" alt="index narrow screen" style="float:right; margin: 10px 10px"/>
+
+
+  <img src="image_wide_screen.png" alt="index wide screen" style="float:left; margin: 10px 10px"/>
+
+
+  <img src="image_narrow_screen.png" alt="index narrow screen" style="float:right; margin: 10px 10px"/>
+
+
 ![index wide screen ](index_wide_screen.png)
 ![image wide screen ](image_wide_screen.png)
 ![index narrow screen ](index_narrow_screen.png)
