@@ -29,7 +29,12 @@ Screenshots
 
 <img align="right" src="index_narrow_screen.png" alt="index narrow screen" />
 
------------------------------------------------------------------
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
 
 
 ###Image Page###
