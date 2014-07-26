@@ -23,13 +23,13 @@ Screenshots
 ---------
 
 
-<img src="index_wide_screen.png" alt="index wide screen" />
+<img align="left" src="index_wide_screen.png" alt="index wide screen" />
 
 
 <img align="right" src="index_narrow_screen.png" alt="index narrow screen" />
 
 
-<img src="image_wide_screen.png" alt="index wide screen"/>
+<img align="left" src="image_wide_screen.png" alt="index wide screen"/>
 
 
 <img align="right" src="image_narrow_screen.png" alt="index narrow screen" />
