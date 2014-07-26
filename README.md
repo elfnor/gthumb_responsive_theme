@@ -30,6 +30,6 @@ Screenshots
 Demo Album
 ---------
 
-Comimg to github soon...
+Coming to github soon...
 
 
