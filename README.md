@@ -35,6 +35,6 @@ Screenshots
 Demo Album
 ---------
 
-Coming to github soon...
+There's a demo album [here](http://elfnor.github.io/artworksgallery/index.html).
 
 
